@@ -1,5 +1,10 @@
-# 📲 Modelando Funções do Iphone _(em desenvolvimento)_
+# 📲 Modelando Funções do Iphone
 
+<p style="text-align: right;">
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
+</p>
+
+	
 Este pequeno projeto visa colocar em prática habilidades como análise de negócios, requisitos, pilares da programação orientada a objetos e modelagem UML. 
 Desenvolvido durante a participação do Bootcamp Java Cloud na [Digital Innovation One](https://www.dio.me/).
 
