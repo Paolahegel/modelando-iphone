@@ -1,10 +1,5 @@
 # 📲 Modelando Funções do Iphone
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
-	
 Este pequeno projeto visa colocar em prática habilidades como análise de negócios, requisitos, pilares da programação orientada a objetos e modelagem UML. 
 Desenvolvido durante a participação do Bootcamp Java Cloud na [Digital Innovation One](https://www.dio.me/).
 
