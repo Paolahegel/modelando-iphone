@@ -6,7 +6,7 @@ Desenvolvido durante a participação do Bootcamp Java Cloud na [Digital Innovat
 ## Proposta
 - Utilizar uma ferramenta de UML para elaborar o diagrama das classes e interfaces, representando as funções do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 - Criar as classes, interfaces e métodos. Associando conforme seu relacionamentos, visibilidade e multiplicidade.
-- Desenvolver o código, a fim de que o Iphone receba todas as funcionalidades.
+- Desenvolver o código, a fim de que o Iphone receba todas as funcionalidades (em construção)
 
 ## Modelo UML
 Criado na platarfoma [Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
